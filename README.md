@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement 
 - 🌱 I’m currently learning javascript and salesforce
 - 💞️ I’m looking to collaborate on web developement projects
-- 📫 How to reach me 4696555368
+- 📫 How to reach me 4696555368/nagasaireddytangirala@my.unt.edu
 
 <!---
 nagasai619/nagasai619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
